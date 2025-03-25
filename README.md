@@ -25,7 +25,7 @@ Before diving into this exciting voice-powered experience, ensure you have the f
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Arjun9234/assistant
+   git clone https://github.com/Shresth88/assistant
    ```
 
 2. **Navigate to the Project Directory:**
